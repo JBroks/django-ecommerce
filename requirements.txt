@@ -45,6 +45,7 @@ jsonpointer==1.10
 jsonschema==3.2.0
 keyring==10.6.0
 keyrings.alt==3.0
+lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 more-itertools==8.0.2
@@ -62,6 +63,7 @@ pylint==1.8.1
 pylint-django==0.8.0
 pylint-flask==0.5
 pylint-plugin-utils==0.6
+python-dateutil==2.8.1
 pyOpenSSL==17.5.0
 pyrsistent==0.15.6
 pyserial==3.4
@@ -91,3 +93,4 @@ virtualenvwrapper==4.8.4
 websocket-client==0.56.0
 Werkzeug==0.16.0
 wrapt==1.11.2
+zope.cachedescriptors==4.3.1
