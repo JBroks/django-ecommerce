@@ -64,7 +64,6 @@ poyo==0.5.0
 psycopg2-binary==2.8.4
 pyasn1==0.4.8
 pyasn1-modules==0.2.1
-pycrypto==2.6.1
 pygobject==3.26.1
 PyJWT==1.5.3
 pylint==1.8.1
