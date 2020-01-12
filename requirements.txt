@@ -21,12 +21,12 @@ command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 cookiecutter==1.6.0
-cryptography==2.1.4
 dateparser==0.7.2
 distro-info===0.18ubuntu0.18.04.1
 dj-database-url==0.5.0
 Django==1.11.24
 django-forms-bootstrap==3.1.0
+django-storages==1.8
 docker==4.1.0
 docutils==0.15.2
 Flask==1.0.4
@@ -78,7 +78,6 @@ python-apt==1.6.4
 python-dateutil==2.8.0
 python-debian==0.1.32
 pytz==2019.3
-pyxdg==0.25
 PyYAML==5.2
 regex==2019.12.19
 requests==2.22.0
@@ -94,7 +93,6 @@ stevedore==1.31.0
 stripe==2.41.1
 systemd-python==234
 tomlkit==0.5.8
-Twisted==17.9.0
 tzlocal==2.0.0
 ufw==0.36
 unattended-upgrades==0.1
